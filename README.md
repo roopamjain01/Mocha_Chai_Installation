@@ -34,14 +34,10 @@ Step 8: Create one test folder in your project
 	    code in test.js file
 	    
 	    var expect = require('chai').expect; //add chai
-	    
 	    describe('A basic test',function(){
-	    
 	       it('Should pass when every thing is ok',function(){
 		    expect(true).to.be.true;
-		    
    	       });
-   	       
            });
 
 Step 10: To run test cases, go to your project root directory and write command
